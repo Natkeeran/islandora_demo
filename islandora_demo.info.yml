@@ -35,5 +35,4 @@ dependencies:
   - text
   - user
   - views
-  - search_api_solr
 package: Islandora
